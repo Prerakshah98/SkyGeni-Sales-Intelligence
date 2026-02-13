@@ -1,7 +1,6 @@
-# SkyGeni Sales Intelligence Challenge
+# SkyGeni Sales Intelligence 
 
-**Role:** Data Science / Applied AI Engineer  
-**Task:** Design a decision intelligence system to diagnose win rate drops and recommend actions.
+*Task:** Design a decision intelligence system to diagnose win rate drops and recommend actions.
 
 ---
 
